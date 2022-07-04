@@ -6,8 +6,10 @@ This repository contains the solutions of exercises provided by [leetcode.com](h
 
 * Data Structures
 * Algorithms
+* Linked Lists
 * Queues
 * Hash maps
+* Math
 
 ## Technologies
 
